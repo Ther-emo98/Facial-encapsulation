@@ -1,9 +1,14 @@
 apply plugin: 'com.android.library'
-apply plugin:  'maven-publish'
+//apply plugin:  'maven-publish'
 //plugins {
 //    id 'maven-publish'
 //    id 'com.android.library'
 //}
+
+//apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.Ther-emo98'//xxx 为 你的github 账户名
+
+
 
 android {
 
