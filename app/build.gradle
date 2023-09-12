@@ -1,7 +1,4 @@
-plugins {
-    id 'com.android.application'
-    id 'maven-publish'
-}
+apply plugin: 'com.android.application'
 
 android {
     namespace 'com.example.githubapplication'
